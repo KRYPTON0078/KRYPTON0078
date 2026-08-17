@@ -2,7 +2,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Cypher) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kryptonzenblorck) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/magne-dina-neves-86b164322/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Efficient_Package900) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magnedinanevesdina@gmail.com) 
 <br><br>![Welcome](https://github.com/user-attachments/assets/0fb7a8b8-ae87-4bb0-a47d-03c8470ab31e)
 <br><br><br>💫 Hello there!<br>
-<br>I'm Magne Dina Neves, a finalist Electrical and Computer Engineering student at University of Macau.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & love challenges and solving problems.<br><br>My expertise: Electrical Engineering, Robotics & Embedded Systems, App development, Internet of Things, Cyber-Security and Cyber-Physical Systems.<br><br><br>
+<br>I'm Magne Dina Neves, a finalist Electrical and Computer Engineering student at University of Macau.<br><br>I'm adaptable, like to learn new things, can work in a team or individually, & love challenges and solving problems.<br><br>My expertise: Electrical Engineering, Robotics & Embedded Systems, App development and Pentest, Internet of Things, Cyber-Security and Cyber-Physical Systems.<br><br><br>
 
 
 
